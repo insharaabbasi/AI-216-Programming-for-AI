@@ -1,17 +1,18 @@
+"""
+hello_ai216.py
+Week 01 – Programming for AI
+This script demonstrates basic Python output and environment inspection.
+"""
+
 import sys
 
-# Print name and ID
 print("Name: Inshara Abbasi")
-print("ID: AUIC-25SG-BSAI-9959")
+print("Student ID: 9959")
 
-print()  # blank line
-
-# Print Python version
-print("Python Version:")
+print("\nPython Version:")
 print(sys.version)
 
-print()  # blank line
-
-# Reflection: What Programming for AI means to me
-print("Programming for AI means learning how to think logically and solve problems.")
-print("This course is helping me develop a strong foundation for future AI work.")
+print("\nWhat Programming for AI Means to Me:")
+print("Programming for AI is the foundation of building intelligent systems.")
+print("It allows machines to learn from data and make informed decisions.")
+print("Through Python, I can turn ideas into real AI-powered solutions.")
