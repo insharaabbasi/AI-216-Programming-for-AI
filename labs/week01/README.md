@@ -1,18 +1,26 @@
-# Week 01 — Introduction to Programming for AI
+Task 8 — Write a professional README for the Week 1 folder
+Ensure labs/week01/README.md includes:
+Brief description of what you did
+Key Git commands used
+What you learned (3 bullets)
+How this supports AI/ML workflows (reproducibility + collaboration)
+# Lab 01 – GitHub Setup & First Push
 
-## Overview
-This week introduces the basics of programming using Python, which is essential for Artificial Intelligence and Machine Learning development.
+## What this lab does
+...
 
-## Learning Objectives
-- Understand the role of programming in AI systems
-- Set up a Python development environment
-- Write and run a basic Python script
-- Use Git and GitHub for version control
+## Key commands used
+- git init
+- git add .
+- git commit -m "..."
+- git push
+- git checkout -b ...
+- git merge ...
 
-## Activities
-- Created the course repository structure
-- Added the first Python script (`hello_ai216.py`)
-- Practiced Git commands: init, add, commit, push
+## What I learned
+- ...
+- ...
+- ...
 
-## Relevance to AI & Machine Learning
-Python is the primary language used in AI and ML because of its simplicity and powerful libraries such as NumPy, Pandas, and TensorFlow.
+## AI/ML relevance
+...
