@@ -69,13 +69,10 @@ Example: Calculating total payroll or total revenue for each product category.
 
 
 
-It helps practice real-world data handling in Python.
-
-You learn how to organize data clearly and calculate totals efficiently.
-
-Prepares for more advanced topics like data analysis, reporting, and AI applications.
-
-Shows how multiple data structures can be combined to solve practical problems like inventory management or sales summaries.
+* It helps practice real-world data handling in Python.
+* You learn how to organize data clearly and calculate totals efficiently.
+* Prepares for more advanced topics like data analysis, reporting, and AI applications.
+* Shows how multiple data structures can be combined to solve practical problems like inventory management or sales summaries.
 
 
 
