@@ -2,7 +2,7 @@
 
 
 
-In this lab, I learned how to use Python’s main data structures—lists, tuples, sets, and dictionaries—to organize and manage data for different tasks. I worked on exercises like analyzing prices, handling geographic coordinates, comparing student groups, calculating employee payroll, summarizing sales, and building an inventory system for a store. The main goals were organizing data clearly, performing calculations, and keeping track of unique items.
+In this lab, I learned how to use Python’s main data structures lists, tuples, sets, and dictionaries to organize and manage data for different tasks. I worked on exercises like analyzing prices, handling geographic coordinates, comparing student groups, calculating employee payroll, summarizing sales, and building an inventory system for a store. The main goals were organizing data clearly, performing calculations, and keeping track of unique items.
 
 
 
@@ -80,7 +80,7 @@ Example: Calculating total payroll or total revenue for each product category.
 
 
 
-In this lab, I learned how to use different Python data structures—lists, tuples, sets, and dictionaries—to organize, manage, and process data effectively. I practiced working with nested structures, handling immutable data, tracking unique items, and performing calculations like totals and averages.
+In this lab, I learned how to use different Python data structures lists, tuples, sets, and dictionaries to organize, manage, and process data effectively. I practiced working with nested structures, handling immutable data, tracking unique items, and performing calculations like totals and averages.
 
 
 
