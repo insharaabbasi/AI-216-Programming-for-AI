@@ -27,9 +27,7 @@ The goal of this project is to simplify plant selection for beginners who may no
 
 Python (Core programming language)
 
-Pandas (for data handling and filtering)
-
-NumPy (for basic calculations like averages)
+Pandas (for data handling, filtering and basic calculations like averages)
 
 
 
